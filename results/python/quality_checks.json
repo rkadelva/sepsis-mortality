@@ -1,0 +1,15 @@
+{
+  "patient_fact_rows": 864,
+  "summary_rows": 11921,
+  "reporting_period_counts": {
+    "2026Q1": 864
+  },
+  "deaddis_counts": {
+    "1": 186,
+    "0": 678
+  },
+  "predicted_mortality_nonmissing": 864,
+  "predicted_mortality_min": 0.015566,
+  "predicted_mortality_max": 0.862386,
+  "duplicate_ids": 0
+}
